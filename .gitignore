@@ -1,17 +1,24 @@
 # Compiled files
 *.class
 
-# IDEs
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
 .idea/
-.vscode/
 *.iml
+
+# VS Code
+.vscode/
 
 # Logs
 *.log
 
-# OS
+# OS files
 .DS_Store
 
-# Environment / credentials
+# Environment variables
 .env
-/bin/
+
